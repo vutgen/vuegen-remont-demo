@@ -1,0 +1,10 @@
+{
+  "product": "repair",
+  "title": "Смета — калькулятор ремонта",
+  "demo": true,
+  "source_files_sha256": {
+    "index.html": "8979849bcd06d5b948a8c6454965e3e9cfc4b5018652df0f261b55d7b97464db",
+    "calc.js": "be75e27e0b75534f8b9aa26418db87a8e1fd5dfff8ece7547145bd82363e116f",
+    "app.js": "fe563254912f9a118de0b4d7061c50f8c9e0c58ee2c5199deda4cc0f1d13f55d"
+  }
+}
